@@ -48,10 +48,11 @@ N/A
 One challenge I encountered while creating this submission was bringing all the files together in this GitHub repository. 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+After completing this submission, 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+
+If I had a few more hours to work on this project, I’d add a few more features to the game. One thing I would add is a counter that would tell the user how many more “rounds” they need before they win the game. Before the game starts, I would also add a separate screen that would allow the user to choose what difficulty they would like their game to be (easy, medium, or hard). The easy level would use an array with an index of 5 as the correct button combination, the medium level would use an array with an index of 10, and the hard level would use an array with an index of 15. I would also like to add a strike counter to each level. For the easy level, the player will start with one strike. For the medium level, the player will start with 2 strikes, and the hard level will have 3 strikes. There will be a variable for strikes, and this variable will update with the amount after the user begins the game and chooses a difficulty level. If a player presses an incorrect button, the variable will update and by subtracting one from the current value of the variable. After each “round” in the game, the program will check whether or not this variable is equal to 0. If it is, the game will end. 
 
 
 
