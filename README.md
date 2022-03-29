@@ -50,6 +50,9 @@ N/A
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 One challenge I encountered while creating this submission was bringing all the files together in this GitHub repository. 
 
+One challenge I encountered while creating this submission was designing the guess function in the script.js file. While I have had experience coding in JavaScript, it has been a while since I have used it. As a result, I had trouble remembering the syntax, which made it difficult as I encountered a couple of errors while writing the function. To overcome this challenge, I looked at the other functions the tutorial provided to gain an understanding of the syntax (e.g. how the if-statements work, what did and did not need a semicolon, etc.). When I got to this step of the submission, I was also unsure of how I wanted the guess function to work. To overcome this challenge, I decided to pseudocode my thoughts before writing the function. I thought about the steps the function should take when a player pressed a button to guess, and I wrote those steps as comments. After that, I wrote the code around the comments to make sure I was following each step I had written. After I finished writing my attempt for the guess function, I looked at the example code that the tutorial provided to see how accurate mine was before making adjustments. 
+
+
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 
