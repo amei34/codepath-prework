@@ -71,6 +71,9 @@ One challenge I encountered while creating this submission was bringing all the 
 https://drive.google.com/file/d/1NOXoEsWbSGFybuhbRekV-uKWaMU29WDz/view?usp=sharing
 
 
+Note: Third party cookies must be enabled if viewing in incognito mode.
+
+
 ## License
 
     Copyright Anna Mei
